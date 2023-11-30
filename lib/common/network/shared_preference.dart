@@ -9,7 +9,7 @@ class SharedPreference {
   Future<void> openHiveBox() async {
     var dir = await getApplicationDocumentsDirectory();
     Hive.init(dir.path);
-    _hiveBox = await Hive.openBox("BeautifulConnect");
+    _hiveBox = await Hive.openBox("Example");
   }
 
   read(String key) {
