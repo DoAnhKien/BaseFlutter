@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "439093363904",
+    "project_id": "testcentrix-ac54b",
+    "storage_bucket": "testcentrix-ac54b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439093363904:android:afff1ec30cc1afb4d81925",
+        "android_client_info": {
+          "package_name": "com.centrix.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439093363904-oloe91fhcpd8sld6p1s00bv1n3qekt5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centrix.app",
+            "certificate_hash": "d1651dd12183f8fcaf5430f00b138ddc5c9e70a8"
+          }
+        },
+        {
+          "client_id": "439093363904-j4583u7qid6vu0riklutlt2on6lh1j63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRZ1O05zrUfU5pLb9-kYzdJD-Fzn3eM1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439093363904-j4583u7qid6vu0riklutlt2on6lh1j63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439093363904-5kiu4p2qpqmnp3g59g94k05mcjfc9rbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.centrix.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
